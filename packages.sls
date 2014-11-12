@@ -2,5 +2,5 @@ python-software-properties:
   pkg.installed
 
 juno-repo:
-  pkgrepo-managed:
+  pkgrepo.managed:
     - ppa: cloud-archive:juno
